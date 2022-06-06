@@ -50,5 +50,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasathuraikaran&show_icons=true&locale=en" alt="rasathuraikaran" /></p>
 
+<a href="https://github.com/rasathuraikaran/github-readme-activity-graph"><img alt="Rasathurai Karan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rasathuraikaran&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasathuraikaran&" alt="rasathuraikaran" /></p>
 
