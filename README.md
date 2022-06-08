@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasathuraikaran&label=Profile%20views&color=0e75b6&style=flat" alt="rasathuraikaran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasathuraikaran" alt="rasathuraikaran" /></a> </p>
+
 
 - 🔭 I’m currently working on [smart-inventory-management-system](https://github.com/rasathuraikaran/smart-inventory-management-system)
 
@@ -50,6 +50,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasathuraikaran&show_icons=true&locale=en" alt="rasathuraikaran" /></p>
 
-<a href="https://github.com/rasathuraikaran/github-readme-activity-graph"><img alt="Rasathurai Karan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rasathuraikaran&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasathuraikaran&" alt="rasathuraikaran" /></p>
 
