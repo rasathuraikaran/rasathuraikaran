@@ -54,3 +54,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasathuraikaran&" alt="rasathuraikaran" /></p>
 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rasathuraikaran26/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rasathuraikaran26/1" alt="Recent Article 0"> 
