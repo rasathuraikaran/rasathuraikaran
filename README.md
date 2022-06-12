@@ -19,8 +19,10 @@
 <a href="https://stackoverflow.com/users/14732792/rasathurai-karan"><img src="https://stackoverflow.com/users/flair/14732792.png" width="208" height="58" alt="profile for Rasathurai Karan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Rasathurai Karan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rasathuraikaran26/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rasathuraikaran26/1" alt="Recent Article 1"> 
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rasathuraikaran26/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rasathuraikaran26/2" alt="Recent Article 2"> 
+
 
 
 
@@ -54,4 +56,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasathuraikaran&" alt="rasathuraikaran" /></p>
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rasathuraikaran26/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rasathuraikaran26/1" alt="Recent Article 0"> 
