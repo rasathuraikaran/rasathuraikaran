@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [smart-inventory-management-system](https://github.com/rasathuraikaran/smart-inventory-management-system)
 
-- 🌱 I’m currently learning **Web Application,Networking ,DSA**
+- 🌱 I’m currently learning **Web Application,Mobile App Development,Networking ,DSA,**
 
 - 📝 I regularly write articles on [https://rasathuraikaran26.medium.com/](https://rasathuraikaran26.medium.com/)
 -  📝 also  write articles on [http://stackgod.blogspot.com/?m=1](http://stackgod.blogspot.com/?m=1)
