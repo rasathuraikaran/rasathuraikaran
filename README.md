@@ -33,8 +33,6 @@
 
 <a href="https://www.linkedin.com/in/karan1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasathurai karan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14732792/rasathurai-karan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rasathurai karan" height="30" width="40" /></a>
-
-
 <a href="https://medium.com/@rasathuraikaran26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rasathuraikaran26" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/karan_19991126" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="karan_19991126" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/rasathuraikaran26/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rasathuraikaran26" height="30" width="40" /></a>
