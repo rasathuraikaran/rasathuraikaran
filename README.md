@@ -51,7 +51,7 @@
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasathuraikaran&theme=dracula" alt="rasathuraikaran" />
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasathuraikaran&theme=dracula" alt="rasathuraikaran" />
+    
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasathuraikaran&show_icons=true&locale=en&theme=dracula" alt="rasathuraikaran" /></p>
 
 
