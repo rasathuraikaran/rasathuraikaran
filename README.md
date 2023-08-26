@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Digital Twin in Green House](https://github.com/rasathuraikaran/e18-6sp-Digital-Twin)
 
-- 🌱 I’m interested in  **Mobile App Development,Web Application, Backend development,CI/CD pipeline**
+- 🌱 I’m interested in  **Mobile App Development,Web Application, Backend development,DevOps**
 
 - 📝 I regularly write articles on [https://rasathuraikaran26.medium.com/](https://rasathuraikaran26.medium.com/)
 -  📝 also  write articles on [http://stackgod.blogspot.com/?m=1](http://stackgod.blogspot.com/?m=1)
