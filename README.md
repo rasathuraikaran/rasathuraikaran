@@ -16,7 +16,7 @@
 <br>
 <br>
 
-<a href="https://stackoverflow.com/users/14732792/rasathurai-karan"><img src="https://stackoverflow.com/users/flair/14732792.png?theme=dark" width="208" height="58" alt="profile for Rasathurai Karan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"  title="profile for Rasathurai Karan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" ></a>
+[![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=14732792)]
 
 
 
@@ -28,6 +28,9 @@
 <a href="https://stackoverflow.com/users/14732792/rasathurai-karan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rasathurai karan" height="30" width="40" /></a>
 <a href="https://medium.com/@rasathuraikaran26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rasathuraikaran26" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/karan_19991126" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="karan_19991126" height="30" width="40" /></a>
+
+
+
   <a href="https://auth.geeksforgeeks.org/user/rasathuraikaran26/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rasathuraikaran26" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/e18168?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@e18168" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/karan_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="karan_26" height="30" width="40" /></a>
