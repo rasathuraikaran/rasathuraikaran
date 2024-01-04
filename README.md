@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Digital Twin in Green House](https://github.com/rasathuraikaran/e18-6sp-Digital-Twin)
+- 🔭 I’m currently working on [FYP]([https://github.com/rasathuraikaran/e18-6sp-Digital-Twin](https://github.com/cepdnaclk/e18-4yp-machine-vision-for-quality-inspection))
 
 - 🌱 I’m interested in  **Mobile App Development,Web Application, Backend development,DevOps**
 
