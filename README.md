@@ -5,12 +5,12 @@
 
 
 
-- 🔭 I’m currently working on [FYP]([https://github.com/rasathuraikaran/e18-6sp-Digital-Twin](https://github.com/cepdnaclk/e18-4yp-machine-vision-for-quality-inspection))
+- 🔭 I’m currently working on [FYP](https://github.com/cepdnaclk/e18-4yp-machine-vision-for-quality-inspection)
 
 - 🌱 I’m interested in  **Mobile App Development,Web Application, Backend development,DevOps**
 
-- 📝 I regularly write articles on [https://rasathuraikaran26.medium.com/](https://rasathuraikaran26.medium.com/)
--  📝 also  write articles on [http://stackgod.blogspot.com/?m=1](http://stackgod.blogspot.com/?m=1)
+- 📝 I regularly write articles on [Medium](https://rasathuraikaran26.medium.com/)
+-  📝 also  write articles on [Stackgod](http://stackgod.blogspot.com/?m=1)
 
 - 📫 How to reach me **rasathuraikaran26@gmail.com**
 <br>
